@@ -12,7 +12,15 @@ Its all fine. Trust the monkey.
 
 ## Synthoscope
 
-Funny xy pad version from synthoscope.com
+Funny isometric xy scale pad based on synthoscope.com
+
+## Synthospad
+
+Simpler pad without integrated looper. Meant to be used with Synthoseq or as simple controller.
+
+## Synthoseq
+
+Simple 8 track xy looper / sequencer
 
 ## Bytebed
 
