@@ -1,6 +1,8 @@
 # monkeypatcher
 
-monkeypatchers demo modules for VCVRACK2
+Experimental prototype monkeypatcher modules for VCVRACK2. Released for testing and feedback:
+
+![Demo modules](image.png)
 
 # Installation
 
