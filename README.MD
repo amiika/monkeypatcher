@@ -16,6 +16,8 @@ Its all fine. Trust the monkey.
 
 Funny isometric xy scale pad based on synthoscope.com
 
+![Synthoscope](synthoscope.png)
+
 ## Synthospad
 
 Simpler pad without integrated looper. Meant to be used with Synthoseq or as simple controller.
@@ -35,6 +37,8 @@ Modular version of Ziffers - The numerical live coding notation.
 Base 62 variant notation for pitch classes / scale degrees (0..Z = 0..9, a-z, A-Z).
 
 Durations denoted with !-mark and fractions, decimals or characters (q, w, e, s, etc.), for example !1/4, !0.25 or !q.
+
+![Ziffers](ziffers.png)
 
 ## Synthoscale
 
