@@ -6,7 +6,15 @@ Experimental prototype monkeypatcher modules for VCVRACK2. Released for testing 
 
 # Installation
 
-Follow VCVRACK2 guide to install: https://vcvrack.com/manual/Installing#Installing-plugins-not-available-on-the-VCV-Library
+This prototype is distributed as .vcvplugin file. Download the monkeypatcher-2.0.0-mac-arm64.vcv file and store it to your vcv2 plugins directory.
+
+MacOS: ~/Library/Application Support/Rack2/
+Windows: C:\Users\<username>\AppData\Local\Rack2\
+Linux: ~/.local/share/Rack2/
+
+Rack will extract and load the plugin upon launch.
+
+See Official docs for third-party plugins: https://vcvrack.com/manual/Installing#Installing-plugins-not-available-on-the-VCV-Library
 
 Its all fine. Trust the monkey.
 
