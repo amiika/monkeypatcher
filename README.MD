@@ -52,6 +52,10 @@ Durations denoted with !-mark and fractions, decimals or characters (q, w, e, s,
 
 Standalone binary mask scale quantizer for binary and MOS scales. Designed especially for Ziffers live coding module, but works with other sequencers, like Seq-3 as well.
 
+## Spider
+
+If the standard Cable Spaghetti is not enough - The Spider can help to make a web of connected knobs that can be tweaked using the knob on Spider module.
+
 # Credits
 
 * Source for 12edo scale names and inspiration: [Ian Ring's Study of Scales](https://ianring.com/musictheory/scales/)
