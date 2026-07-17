@@ -26,17 +26,11 @@ Funny isometric xy scale pad based on synthoscope.com
 
 ![Synthoscope](synthoscope.png)
 
-## Synthospad
-
-Simpler pad without integrated looper. Meant to be used with Synthoseq or as simple controller.
-
-## Synthoseq
-
-Simple 8 track xy looper / sequencer
-
 ## Bytebed
 
 Funky bytebeat interpreter based on bytebed.com
+
+![Bytebed](bytebed.png)
 
 ## Ziffers
 
