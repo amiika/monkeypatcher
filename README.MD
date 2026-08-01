@@ -26,6 +26,10 @@ Funny isometric xy scale pad based on synthoscope.com
 
 ![Synthoscope](synthoscope.png)
 
+## IO & MOD & IN & OUT
+
+Synthoscope extenders for more features, input and output ports
+
 ## Bytebed
 
 Funky bytebeat interpreter based on bytebed.com
@@ -49,6 +53,22 @@ Standalone binary mask scale quantizer for binary and MOS scales. Designed espec
 ## Spider
 
 If the standard Cable Spaghetti is not enough - The Spider can help to make a web of connected knobs that can be tweaked using the knob on Spider module.
+
+## Synthospeed
+
+Phasor generator that can create and manipulate phasors from master BPM and other playback functions.
+
+## Phasordeck
+
+Errr ... temporal DJ deck for phasors for going back and forth in time. Inputs standard 0-10V phasor and outputs it mangled up.
+
+## Synthospread
+
+Euclidean function generator. Inputs phasors and outputs functions or gate signals.
+
+## Bytedream
+
+Minimalistic visualization generator based on [bitfielder](https://git.raphaelforment.fr/BuboBubo/bitfielder).
 
 # Credits
 
