@@ -30,45 +30,47 @@ Funny isometric xy scale pad based on synthoscope.com
 
 Synthoscope extenders for more features, input and output ports
 
+## Synthospeed
+
+Master clock and phasor generator to create and manipulate phasor functions. Extender for Synthoscope and Ziffers modules.
+
 ## Bytebed
 
-Funky bytebeat interpreter based on bytebed.com
+Funky bytebeat interpreter based on bytebed.com. Can be used with Synthoscope using MOD extenders X&Y out.
 
 ![Bytebed](bytebed.png)
 
 ## Ziffers
 
-Modular version of Ziffers - The numerical live coding notation.
+Modular version of Ziffers - The numerical live coding notation. Can be used with Synthospeed for tempo and sync control with phasor automatically connected.
 
 Base 62 variant notation for pitch classes / scale degrees (0..Z = 0..9, a-z, A-Z).
 
 Durations denoted with !-mark and fractions, decimals or characters (q, w, e, s, etc.), for example !1/4, !0.25 or !q.
 
+Outputs chromatic V/OCT by default, can be quantized using Synthoscale.
+
 ![Ziffers](ziffers.png)
 
 ## Synthoscale
 
-Standalone binary mask scale quantizer for binary and MOS scales. Designed especially for Ziffers live coding module, but works with other sequencers, like Seq-3 as well.
+Standalone binary mask scale quantizer for binary and MOS scales. Designed especially for Ziffers live coding module, but works also with external gear using MIDI->CV and with other sequencers, like Seq-3 as well.
 
 ## Spider
 
 If the standard Cable Spaghetti is not enough - The Spider can help to make a web of connected knobs that can be tweaked using the knob on Spider module.
 
-## Synthospeed
-
-Phasor generator that can create and manipulate phasors from master BPM and other playback functions.
-
 ## Phasordeck
 
-Errr ... temporal DJ deck for phasors for going back and forth in time. Inputs standard 0-10V phasor and outputs it mangled up.
+Errr ... temporal DJ deck for phasors for going back and forth in time. Inputs standard 0-10V phasor and output the time all mangled up.
 
 ## Synthospread
 
-Euclidean function generator. Inputs phasors and outputs functions or gate signals.
+Euclidean function generator. Inputs phasors and outputs functions or gate signals. Very WIP - but promising.
 
 ## Bytedream
 
-Minimalistic visualization generator based on [bitfielder](https://git.raphaelforment.fr/BuboBubo/bitfielder).
+Minimalistic visualization generator based on [bitfielder](https://git.raphaelforment.fr/BuboBubo/bitfielder). Very WIP and vibed.
 
 # Credits
 
